@@ -1,2 +1,11 @@
-# financials
-Some tools that can help you getting and maintaining a healthy financial situation.
+# Financials
+Tools that can help you getting and keeping your financials healthy.
+
+## Spreadsheet budget tool
+This tool helps you getting insight in your monthly cash flow. It has four tabs:
+- Dashboard (Totalen): the sums and balance of income, expenses and savings
+- Income (Inkomsten): a list of all monthly income sources and amounts
+- Expenses (Uitgaven): a list of all monthly expenses
+- Savings (Reserveringen): a list of all yearly expenses that will be saved for monthly
+
+For now, the spreadsheet budget tool is in Dutch. I will translate this in English soon.
