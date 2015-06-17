@@ -9,3 +9,11 @@ This tool helps you getting insight in your monthly cash flow. It has four tabs:
 - Savings (Reserveringen): a list of all yearly expenses that will be saved for monthly
 
 All tabs are filled with example entries for a quite common Dutch situation. For now, the spreadsheet budget tool is in Dutch only. I will translate this in English soon.
+
+
+## SpeedBalance bookkeeping
+For people who like to keep track on where the money goes and understand bookkeeping, SpeedBalance is a quite easy to learn tool. As a start I added an example with beginning balances. I will add monthly examples soon.
+
+The program used for bookkeeping is available at http://www.speedbalance.nl.
+
+At the moment, the bookkeeping is available in Dutch language only. I'll provide an English translation soon.
