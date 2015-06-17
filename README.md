@@ -8,4 +8,4 @@ This tool helps you getting insight in your monthly cash flow. It has four tabs:
 - Expenses (Uitgaven): a list of all monthly expenses
 - Savings (Reserveringen): a list of all yearly expenses that will be saved for monthly
 
-For now, the spreadsheet budget tool is in Dutch. I will translate this in English soon.
+All tabs are filled with example entries for a quite common Dutch situation. For now, the spreadsheet budget tool is in Dutch only. I will translate this in English soon.
